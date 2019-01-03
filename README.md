@@ -8,7 +8,7 @@ John Cocos and Ixius Porcopius assited with this lab
 
 ### Links and Resources
 * [repo](https://github.com/hingham/08-socket.io-hi)
-* [travis](http://xyz.com)
+* [build](https://www.travis-ci.com/hingham/08-socket.io.svg?branch=master)](https://www.travis-ci.com/hingham/08-socket.io)
 
 ### Modules
 #### logger.js--hold the functionality
