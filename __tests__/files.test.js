@@ -17,9 +17,5 @@ describe('files read and write', () =>{
             expect(logger.readFile).toHaveBeenCalled();
         }); 
 
-        it('')
-
     });
-
-    describe('')
 });
