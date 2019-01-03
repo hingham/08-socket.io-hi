@@ -1,0 +1,28 @@
+{
+  "name": "08-socket.io-hi",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingham/08-socket.io-hi.git"
+  },
+  "author": "Hannah Ingham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hingham/08-socket.io-hi/issues"
+  },
+  "homepage": "https://github.com/hingham/08-socket.io-hi#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "jest": "^23.6.0",
+    "socket.io": "^2.2.0",
+    "util": "^0.11.1"
+  }
+}
