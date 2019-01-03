@@ -21,10 +21,10 @@ John Cocos and Ixius Porcopius assited with this lab
 #### `.env` requirements
 * `PORT` - runs on port 3000
 
-#### Running the app
-* `npm index.js`
-* `npm logger.js`
-* `npm app.js './text.txt'
+#### Running the app in terminal
+* `node index.js`
+* `node logger.js`
+* `node app.js './PATH/TO/TEXT/FILE.txt'
 
 
 #### Tests
