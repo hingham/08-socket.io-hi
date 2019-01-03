@@ -1,42 +1,36 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Project Name: Socket.io
 
-### Author: Student/Group Name
+### Author: Hannah Ingham 
+John Cocos and Ixius Porcopius assited with this lab
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/hingham/08-socket.io-hi)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### logger.js--hold the functionality
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+###### Usage Notes or examples
+### npm init
+### install socket.io jest lint 
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - runs on port 3000
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `npm index.js`
+* `npm logger.js`
+* `npm app.js './text.txt'
+
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* I fun tests with jest
+* Asserts that toUpper returns a buffer that is all uppercase given the string that was used as the argument
+* What assertions need to be:
+* * should assert that alter is calling readFile
 
-#### UML
-Link to an image of the UML for your application and response to events
+
